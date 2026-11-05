@@ -12,7 +12,7 @@ NeurIPS 2026 workshops:
 
 Journal:
 
-- **Language-Model Feature Selection for a Sleep-EEG Foundation Model: A Multihospital Comparison.** First author, IEEE Access (under review). [Code](https://github.com/random-guy-05/sleep-eeg-interface-search)
+- **Language-Model Feature Selection for a Sleep-EEG Foundation Model: A Multihospital Comparison.** First author, TMLR (under review). [Paper](https://openreview.net/forum?id=fXZK2tPTNd) · [Code](https://github.com/random-guy-05/sleep-eeg-interface-search)
 
 ## Other code
 
