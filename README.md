@@ -18,7 +18,7 @@ Journal:
 
 - [vec-toolkit](https://github.com/random-guy-05/vec-toolkit): 38 community tools, guides and browser apps for the Virtual Embryo Challenge, from submission checks to HPC job templates
 - [PhysioGraph](https://github.com/random-guy-05/PhysioGraph): leakage-safe test of SpO2 instability as an early warning of cardiogenic decompensation in ICU patients (MIMIC, eICU)
-- [LocalLink](https://github.com/random-guy-05/LocalLink): native macOS controller for Moonlight, Sunshine and Tailscale remote desktop
+- [LocalLink](https://github.com/random-guy-05/LocalLink): native macOS remote desktop over Tailscale, with its own hardware video, audio and input pipeline
 - [mail-tracker](https://github.com/random-guy-05/mail-tracker): self-hosted open and click tracking for Gmail
 
 [OpenReview](https://openreview.net/profile?id=~Arnav_Mana1)
